@@ -1,0 +1,129 @@
+{
+  "meta": {
+    "version": "1.0",
+    "game": "Arknights: Endfield",
+    "description": "Weapon database for AK:END Tournament Judge Tool"
+  },
+  "weapons": [
+    {
+      "id": "w_001",
+      "name": "Ironclad Buster",
+      "rarity": 4,
+      "type": "standard",
+      "icon": "/assets/weapons/ironclad_buster.png",
+      "description": "Standard issue heavy hammer."
+    },
+    {
+      "id": "w_002",
+      "name": "Tactical Sniper Rifle",
+      "rarity": 5,
+      "type": "standard",
+      "icon": "/assets/weapons/tactical_sniper.png",
+      "description": "Reliable long-range weapon."
+    },
+    {
+      "id": "w_003",
+      "name": "Flamebringer Claymore",
+      "rarity": 6,
+      "type": "standard",
+      "icon": "/assets/weapons/flamebringer.png",
+      "description": "High damage greatsword with thermal tech."
+    },
+    {
+      "id": "w_004",
+      "name": "Nightmare's Edge",
+      "rarity": 6,
+      "type": "event",
+      "icon": "/assets/weapons/nightmare_edge.png",
+      "description": "Limited banner weapon. Passive cap 3-3-3 applies."
+    },
+    {
+      "id": "w_005",
+      "name": "Guardian's Shield",
+      "rarity": 5,
+      "type": "standard",
+      "icon": "/assets/weapons/guardian_shield.png",
+      "description": "Defensive module for tanks."
+    },
+    {
+      "id": "w_006",
+      "name": "Void Piercer",
+      "rarity": 6,
+      "type": "event",
+      "icon": "/assets/weapons/void_piercer.png",
+      "description": "Special event spear. Strict stat limits."
+    },
+    {
+      "id": "w_007",
+      "name": "Medic's Staff Mk.II",
+      "rarity": 4,
+      "type": "standard",
+      "icon": "/assets/weapons/medic_staff.png",
+      "description": "Standard healing amplifier."
+    },
+    {
+      "id": "w_008",
+      "name": "Stormcaller Wand",
+      "rarity": 5,
+      "type": "event",
+      "icon": "/assets/weapons/stormcaller.png",
+      "description": "Banner caster weapon."
+    },
+    {
+      "id": "w_009",
+      "name": "Vanguard Blade",
+      "rarity": 4,
+      "type": "standard",
+      "icon": "/assets/weapons/vanguard_blade.png",
+      "description": "Standard vanguard sword."
+    },
+    {
+      "id": "w_010",
+      "name": "Rhodes Standard Issue",
+      "rarity": 3,
+      "type": "standard",
+      "icon": "/assets/weapons/rhodes_standard.png",
+      "description": "Basic equipment for all operators."
+    },
+    {
+      "id": "w_011",
+      "name": "Leithanien Scepter",
+      "rarity": 5,
+      "type": "event",
+      "icon": "/assets/weapons/leithanien_scepter.png",
+      "description": "Event weapon from Leithanien arc."
+    },
+    {
+      "id": "w_012",
+      "name": "Victoria Crown",
+      "rarity": 6,
+      "type": "event",
+      "icon": "/assets/weapons/victoria_crown.png",
+      "description": "Limited banner weapon."
+    },
+    {
+      "id": "w_013",
+      "name": "Sargon Dagger",
+      "rarity": 4,
+      "type": "standard",
+      "icon": "/assets/weapons/sargon_dagger.png",
+      "description": "Quick strike weapon."
+    },
+    {
+      "id": "w_014",
+      "name": "Yan Spear",
+      "rarity": 5,
+      "type": "standard",
+      "icon": "/assets/weapons/yan_spear.png",
+      "description": "Traditional Yan weapon."
+    },
+    {
+      "id": "w_015",
+      "name": "Higashi Katana",
+      "rarity": 6,
+      "type": "event",
+      "icon": "/assets/weapons/higashi_katana.png",
+      "description": "Banner katana with strict limits."
+    }
+  ]
+}

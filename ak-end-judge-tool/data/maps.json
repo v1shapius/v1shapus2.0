@@ -1,0 +1,128 @@
+{
+  "meta": {
+    "version": "1.0",
+    "rule": "Total weight of any single tag across all selected maps must not exceed 1.0"
+  },
+  "tags": [
+    "AOE",
+    "SingleTarget",
+    "HighMobility",
+    "DefenseHeavy",
+    "BossRush",
+    "Stealth",
+    "EnvironmentalHazard"
+  ],
+  "maps": [
+    {
+      "id": "map_01",
+      "name": "Umbral Citadel",
+      "difficulty": "Hard",
+      "tags": [
+        { "name": "AOE", "weight": 0.5 },
+        { "name": "DefenseHeavy", "weight": 0.3 }
+      ],
+      "icon": "/assets/maps/citadel.png",
+      "hasBoss": true
+    },
+    {
+      "id": "map_02",
+      "name": "Neon Slums",
+      "difficulty": "Medium",
+      "tags": [
+        { "name": "SingleTarget", "weight": 0.4 },
+        { "name": "HighMobility", "weight": 0.6 }
+      ],
+      "icon": "/assets/maps/slums.png",
+      "hasBoss": false
+    },
+    {
+      "id": "map_03",
+      "name": "Abyssal Depths",
+      "difficulty": "Very Hard",
+      "tags": [
+        { "name": "AOE", "weight": 0.6 },
+        { "name": "EnvironmentalHazard", "weight": 0.5 }
+      ],
+      "icon": "/assets/maps/depths.png",
+      "hasBoss": true
+    },
+    {
+      "id": "map_04",
+      "name": "Sky Bridge",
+      "difficulty": "Easy",
+      "tags": [
+        { "name": "HighMobility", "weight": 0.3 },
+        { "name": "SingleTarget", "weight": 0.2 }
+      ],
+      "icon": "/assets/maps/bridge.png",
+      "hasBoss": false
+    },
+    {
+      "id": "map_05",
+      "name": "Factory Core",
+      "difficulty": "Hard",
+      "tags": [
+        { "name": "DefenseHeavy", "weight": 0.7 },
+        { "name": "BossRush", "weight": 0.4 }
+      ],
+      "icon": "/assets/maps/factory.png",
+      "hasBoss": true
+    },
+    {
+      "id": "map_06",
+      "name": "Silent Forest",
+      "difficulty": "Medium",
+      "tags": [
+        { "name": "Stealth", "weight": 0.8 },
+        { "name": "SingleTarget", "weight": 0.5 }
+      ],
+      "icon": "/assets/maps/forest.png",
+      "hasBoss": false
+    },
+    {
+      "id": "map_07",
+      "name": "Volcanic Vent",
+      "difficulty": "Very Hard",
+      "tags": [
+        { "name": "AOE", "weight": 0.4 },
+        { "name": "EnvironmentalHazard", "weight": 0.6 }
+      ],
+      "icon": "/assets/maps/volcano.png",
+      "hasBoss": true
+    },
+    {
+      "id": "map_08",
+      "name": "Frozen Wastes",
+      "difficulty": "Hard",
+      "tags": [
+        { "name": "EnvironmentalHazard", "weight": 0.7 },
+        { "name": "DefenseHeavy", "weight": 0.4 }
+      ],
+      "icon": "/assets/maps/frozen.png",
+      "hasBoss": true
+    },
+    {
+      "id": "map_09",
+      "name": "Desert Outpost",
+      "difficulty": "Medium",
+      "tags": [
+        { "name": "SingleTarget", "weight": 0.3 },
+        { "name": "Stealth", "weight": 0.4 }
+      ],
+      "icon": "/assets/maps/desert.png",
+      "hasBoss": false
+    },
+    {
+      "id": "map_10",
+      "name": "Capital Corridor",
+      "difficulty": "Very Hard",
+      "tags": [
+        { "name": "AOE", "weight": 0.3 },
+        { "name": "BossRush", "weight": 0.5 },
+        { "name": "HighMobility", "weight": 0.4 }
+      ],
+      "icon": "/assets/maps/corridor.png",
+      "hasBoss": true
+    }
+  ]
+}

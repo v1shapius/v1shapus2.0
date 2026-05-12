@@ -1,0 +1,1610 @@
+{
+  "meta": {
+    "version": "1.0",
+    "game": "Arknights: Endfield",
+    "description": "Character database for AK:END Tournament Judge Tool",
+    "lastUpdated": "2024-01-01"
+  },
+  "characters": [
+    {
+      "id": "c_001",
+      "name": "Antal",
+      "rarity": 6,
+      "role": "Guard",
+      "faction": "Rhodes Island",
+      "icon": "/assets/characters/antal.png"
+    },
+    {
+      "id": "c_002",
+      "name": "Da Pan",
+      "rarity": 5,
+      "role": "Specialist",
+      "faction": "Yan",
+      "icon": "/assets/characters/da_pan.png"
+    },
+    {
+      "id": "c_003",
+      "name": "Avivenna",
+      "rarity": 5,
+      "role": "Caster",
+      "faction": "Leithanien",
+      "icon": "/assets/characters/avivenna.png"
+    },
+    {
+      "id": "c_004",
+      "name": "Radan",
+      "rarity": 6,
+      "role": "Guard",
+      "faction": "Kazdel",
+      "icon": "/assets/characters/radan.png"
+    },
+    {
+      "id": "c_005",
+      "name": "Aggel Moira",
+      "rarity": 6,
+      "role": "Medic",
+      "faction": "Rhodes Island",
+      "icon": "/assets/characters/aggel_moira.png"
+    },
+    {
+      "id": "c_006",
+      "name": "Juan Yi",
+      "rarity": 6,
+      "role": "Supporter",
+      "faction": "Yan",
+      "icon": "/assets/characters/juan_yi.png"
+    },
+    {
+      "id": "c_007",
+      "name": "Neferit",
+      "rarity": 6,
+      "role": "Sniper",
+      "faction": "Sargon",
+      "icon": "/assets/characters/neferit.png"
+    },
+    {
+      "id": "c_008",
+      "name": "Ubolg",
+      "rarity": 6,
+      "role": "Vanguard",
+      "faction": "Victoria",
+      "icon": "/assets/characters/ubolg.png"
+    },
+    {
+      "id": "c_009",
+      "name": "Akekuri",
+      "rarity": 5,
+      "role": "Guard",
+      "faction": "Higashi",
+      "icon": "/assets/characters/akekuri.png"
+    },
+    {
+      "id": "c_010",
+      "name": "Allesh",
+      "rarity": 6,
+      "role": "Caster",
+      "faction": "Laterano",
+      "icon": "/assets/characters/allesh.png"
+    },
+    {
+      "id": "c_011",
+      "name": "Amiya (Endfield)",
+      "rarity": 6,
+      "role": "Caster",
+      "faction": "Rhodes Island",
+      "icon": "/assets/characters/amiya_ef.png"
+    },
+    {
+      "id": "c_012",
+      "name": "Ch'en",
+      "rarity": 6,
+      "role": "Guard",
+      "faction": "Lungmen",
+      "icon": "/assets/characters/chen.png"
+    },
+    {
+      "id": "c_013",
+      "name": "SilverAsh",
+      "rarity": 6,
+      "role": "Guard",
+      "faction": "Kjerag",
+      "icon": "/assets/characters/silverash.png"
+    },
+    {
+      "id": "c_014",
+      "name": "Exusiai",
+      "rarity": 6,
+      "role": "Sniper",
+      "faction": "Laterano",
+      "icon": "/assets/characters/exusiai.png"
+    },
+    {
+      "id": "c_015",
+      "name": "Surtr",
+      "rarity": 6,
+      "role": "Guard",
+      "faction": "Muspell",
+      "icon": "/assets/characters/surtr.png"
+    },
+    {
+      "id": "c_016",
+      "name": "Blaze",
+      "rarity": 6,
+      "role": "Guard",
+      "faction": "Rhodes Island",
+      "icon": "/assets/characters/blaze.png"
+    },
+    {
+      "id": "c_017",
+      "name": "Schwarz",
+      "rarity": 6,
+      "role": "Sniper",
+      "faction": "Siracusa",
+      "icon": "/assets/characters/schwarz.png"
+    },
+    {
+      "id": "c_018",
+      "name": "Eyjafjalla",
+      "rarity": 6,
+      "role": "Caster",
+      "faction": "Rhodes Island",
+      "icon": "/assets/characters/eyjafjalla.png"
+    },
+    {
+      "id": "c_019",
+      "name": "Ifrit",
+      "rarity": 6,
+      "role": "Caster",
+      "faction": "Rhodes Island",
+      "icon": "/assets/characters/ifrit.png"
+    },
+    {
+      "id": "c_020",
+      "name": "Nightingale",
+      "rarity": 6,
+      "role": "Medic",
+      "faction": "Rhodes Island",
+      "icon": "/assets/characters/nightingale.png"
+    },
+    {
+      "id": "c_021",
+      "name": "Shining",
+      "rarity": 6,
+      "role": "Medic",
+      "faction": "Rhodes Island",
+      "icon": "/assets/characters/shining.png"
+    },
+    {
+      "id": "c_022",
+      "name": "Saria",
+      "rarity": 6,
+      "role": "Defender",
+      "faction": "Rhodes Island",
+      "icon": "/assets/characters/saria.png"
+    },
+    {
+      "id": "c_023",
+      "name": "Severin Hawthorn",
+      "rarity": 6,
+      "role": "Vanguard",
+      "faction": "Victoria",
+      "icon": "/assets/characters/severin.png"
+    },
+    {
+      "id": "c_024",
+      "name": "Texas",
+      "rarity": 5,
+      "role": "Vanguard",
+      "faction": "Penguin Logistics",
+      "icon": "/assets/characters/texas.png"
+    },
+    {
+      "id": "c_025",
+      "name": "Lappland",
+      "rarity": 5,
+      "role": "Guard",
+      "faction": "Siracusa",
+      "icon": "/assets/characters/lappland.png"
+    },
+    {
+      "id": "c_026",
+      "name": "King",
+      "rarity": 5,
+      "role": "Vanguard",
+      "faction": "Victoria",
+      "icon": "/assets/characters/king.png"
+    },
+    {
+      "id": "c_027",
+      "name": "Mayer",
+      "rarity": 5,
+      "role": "Supporter",
+      "faction": "Rhodes Island",
+      "icon": "/assets/characters/mayer.png"
+    },
+    {
+      "id": "c_028",
+      "name": "Pramanix",
+      "rarity": 5,
+      "role": "Supporter",
+      "faction": "Kjerag",
+      "icon": "/assets/characters/pramanix.png"
+    },
+    {
+      "id": "c_029",
+      "name": "Angelina",
+      "rarity": 5,
+      "role": "Supporter",
+      "faction": "Rhodes Island",
+      "icon": "/assets/characters/angelina.png"
+    },
+    {
+      "id": "c_030",
+      "name": "Glaucus",
+      "rarity": 5,
+      "role": "Specialist",
+      "faction": "Rhodes Island",
+      "icon": "/assets/characters/glaucus.png"
+    },
+    {
+      "id": "c_031",
+      "name": "Projekt Red",
+      "rarity": 5,
+      "role": "Specialist",
+      "faction": "Rhodes Island",
+      "icon": "/assets/characters/red.png"
+    },
+    {
+      "id": "c_032",
+      "name": "Eunectes",
+      "rarity": 5,
+      "role": "Defender",
+      "faction": "Columbia",
+      "icon": "/assets/characters/eunectes.png"
+    },
+    {
+      "id": "c_033",
+      "name": "Bison",
+      "rarity": 5,
+      "role": "Defender",
+      "faction": "Bolivar",
+      "icon": "/assets/characters/bison.png"
+    },
+    {
+      "id": "c_034",
+      "name": "Hung",
+      "rarity": 5,
+      "role": "Guard",
+      "faction": "Yan",
+      "icon": "/assets/characters/hung.png"
+    },
+    {
+      "id": "c_035",
+      "name": "Indra",
+      "rarity": 5,
+      "role": "Guard",
+      "faction": "Yan",
+      "icon": "/assets/characters/indra.png"
+    },
+    {
+      "id": "c_036",
+      "name": "Lee",
+      "rarity": 5,
+      "role": "Specialist",
+      "faction": "Yan",
+      "icon": "/assets/characters/lee.png"
+    },
+    {
+      "id": "c_037",
+      "name": "Ling",
+      "rarity": 5,
+      "role": "Supporter",
+      "faction": "Yan",
+      "icon": "/assets/characters/ling.png"
+    },
+    {
+      "id": "c_038",
+      "name": "Nian",
+      "rarity": 5,
+      "role": "Defender",
+      "faction": "Yan",
+      "icon": "/assets/characters/nian.png"
+    },
+    {
+      "id": "c_039",
+      "name": "Dusk",
+      "rarity": 5,
+      "role": "Caster",
+      "faction": "Yan",
+      "icon": "/assets/characters/dusk.png"
+    },
+    {
+      "id": "c_040",
+      "name": "Spuria",
+      "rarity": 5,
+      "role": "Specialist",
+      "faction": "Laterano",
+      "icon": "/assets/characters/spuria.png"
+    },
+    {
+      "id": "c_041",
+      "name": "Executor",
+      "rarity": 5,
+      "role": "Specialist",
+      "faction": "Laterano",
+      "icon": "/assets/characters/executor.png"
+    },
+    {
+      "id": "c_042",
+      "name": "Saileach",
+      "rarity": 5,
+      "role": "Guard",
+      "faction": "Victoria",
+      "icon": "/assets/characters/saileach.png"
+    },
+    {
+      "id": "c_043",
+      "name": "Wild Mane",
+      "rarity": 5,
+      "role": "Vanguard",
+      "faction": "Victoria",
+      "icon": "/assets/characters/wild_mane.png"
+    },
+    {
+      "id": "c_044",
+      "name": "Bagpipe",
+      "rarity": 5,
+      "role": "Vanguard",
+      "faction": "Victoria",
+      "icon": "/assets/characters/bagpipe.png"
+    },
+    {
+      "id": "c_045",
+      "name": "Flamebringer",
+      "rarity": 5,
+      "role": "Guard",
+      "faction": "Rhodes Island",
+      "icon": "/assets/characters/flamebringer_char.png"
+    },
+    {
+      "id": "c_046",
+      "name": "Meteorite",
+      "rarity": 5,
+      "role": "Sniper",
+      "faction": "Rhodes Island",
+      "icon": "/assets/characters/meteorite.png"
+    },
+    {
+      "id": "c_047",
+      "name": "Goldenglow",
+      "rarity": 5,
+      "role": "Caster",
+      "faction": "Rhodes Island",
+      "icon": "/assets/characters/goldenglow.png"
+    },
+    {
+      "id": "c_048",
+      "name": "Passenger",
+      "rarity": 5,
+      "role": "Caster",
+      "faction": "Leithanien",
+      "icon": "/assets/characters/passenger.png"
+    },
+    {
+      "id": "c_049",
+      "name": "Rockrock",
+      "rarity": 5,
+      "role": "Defender",
+      "faction": "Kazdel",
+      "icon": "/assets/characters/rockrock.png"
+    },
+    {
+      "id": "c_050",
+      "name": "Specter",
+      "rarity": 5,
+      "role": "Guard",
+      "faction": "Aegir",
+      "icon": "/assets/characters/specter.png"
+    },
+    {
+      "id": "c_051",
+      "name": "Skadi",
+      "rarity": 5,
+      "role": "Guard",
+      "faction": "Aegir",
+      "icon": "/assets/characters/skadi.png"
+    },
+    {
+      "id": "c_052",
+      "name": "Gladiia",
+      "rarity": 5,
+      "role": "Supporter",
+      "faction": "Aegir",
+      "icon": "/assets/characters/gladiia.png"
+    },
+    {
+      "id": "c_053",
+      "name": "U-Official",
+      "rarity": 5,
+      "role": "Sniper",
+      "faction": "Aegir",
+      "icon": "/assets/characters/u_official.png"
+    },
+    {
+      "id": "c_054",
+      "name": "Izana",
+      "rarity": 5,
+      "role": "Vanguard",
+      "faction": "Higashi",
+      "icon": "/assets/characters/izana.png"
+    },
+    {
+      "id": "c_055",
+      "name": "Kyoto",
+      "rarity": 5,
+      "role": "Guard",
+      "faction": "Higashi",
+      "icon": "/assets/characters/kyoto.png"
+    },
+    {
+      "id": "c_056",
+      "name": "Utage",
+      "rarity": 5,
+      "role": "Guard",
+      "faction": "Higashi",
+      "icon": "/assets/characters/utage.png"
+    },
+    {
+      "id": "c_057",
+      "name": "Akafuyu",
+      "rarity": 5,
+      "role": "Sniper",
+      "faction": "Higashi",
+      "icon": "/assets/characters/akafuyu.png"
+    },
+    {
+      "id": "c_058",
+      "name": "Tsukinogi",
+      "rarity": 5,
+      "role": "Supporter",
+      "faction": "Higashi",
+      "icon": "/assets/characters/tsukinogi.png"
+    },
+    {
+      "id": "c_059",
+      "name": "Harmonie",
+      "rarity": 5,
+      "role": "Caster",
+      "faction": "Victoria",
+      "icon": "/assets/characters/harmonie.png"
+    },
+    {
+      "id": "c_060",
+      "name": "Ines",
+      "rarity": 5,
+      "role": "Supporter",
+      "faction": "Rhodes Island",
+      "icon": "/assets/characters/ines.png"
+    },
+    {
+      "id": "c_061",
+      "name": "Vulpisfoglia",
+      "rarity": 4,
+      "role": "Guard",
+      "faction": "Siracusa",
+      "icon": "/assets/characters/vulpisfoglia.png"
+    },
+    {
+      "id": "c_062",
+      "name": "Cantabile",
+      "rarity": 4,
+      "role": "Caster",
+      "faction": "Leithanien",
+      "icon": "/assets/characters/cantabile.png"
+    },
+    {
+      "id": "c_063",
+      "name": "Vendela",
+      "rarity": 4,
+      "role": "Sniper",
+      "faction": "Victoria",
+      "icon": "/assets/characters/vendela.png"
+    },
+    {
+      "id": "c_064",
+      "name": "Dobermann",
+      "rarity": 4,
+      "role": "Vanguard",
+      "faction": "Rhodes Island",
+      "icon": "/assets/characters/dobermann.png"
+    },
+    {
+      "id": "c_065",
+      "name": "Jessica",
+      "rarity": 4,
+      "role": "Sniper",
+      "faction": "Black Steel",
+      "icon": "/assets/characters/jessica.png"
+    },
+    {
+      "id": "c_066",
+      "name": "Myrrh",
+      "rarity": 4,
+      "role": "Medic",
+      "faction": "Rhodes Island",
+      "icon": "/assets/characters/myrrh.png"
+    },
+    {
+      "id": "c_067",
+      "name": "Ansel",
+      "rarity": 4,
+      "role": "Medic",
+      "faction": "Rhodes Island",
+      "icon": "/assets/characters/ansel.png"
+    },
+    {
+      "id": "c_068",
+      "name": "Pudding",
+      "rarity": 4,
+      "role": "Caster",
+      "faction": "Rhodes Island",
+      "icon": "/assets/characters/pudding.png"
+    },
+    {
+      "id": "c_069",
+      "name": "Melantha",
+      "rarity": 4,
+      "role": "Guard",
+      "faction": "Rhodes Island",
+      "icon": "/assets/characters/melantha.png"
+    },
+    {
+      "id": "c_070",
+      "name": "Adnachiel",
+      "rarity": 4,
+      "role": "Sniper",
+      "faction": "Rhodes Island",
+      "icon": "/assets/characters/adnachiel.png"
+    },
+    {
+      "id": "c_071",
+      "name": "Steward",
+      "rarity": 4,
+      "role": "Caster",
+      "faction": "Rhodes Island",
+      "icon": "/assets/characters/steward.png"
+    },
+    {
+      "id": "c_072",
+      "name": "Durin",
+      "rarity": 4,
+      "role": "Caster",
+      "faction": "Rhodes Island",
+      "icon": "/assets/characters/durin.png"
+    },
+    {
+      "id": "c_073",
+      "name": "Rope",
+      "rarity": 4,
+      "role": "Specialist",
+      "faction": "Rhodes Island",
+      "icon": "/assets/characters/rope.png"
+    },
+    {
+      "id": "c_074",
+      "name": "Click",
+      "rarity": 4,
+      "role": "Sniper",
+      "faction": "Rhodes Island",
+      "icon": "/assets/characters/click.png"
+    },
+    {
+      "id": "c_075",
+      "name": "Ambriel",
+      "rarity": 4,
+      "role": "Sniper",
+      "faction": "Rhodes Island",
+      "icon": "/assets/characters/ambriel.png"
+    },
+    {
+      "id": "c_076",
+      "name": "Beagle",
+      "rarity": 4,
+      "role": "Vanguard",
+      "faction": "Rhodes Island",
+      "icon": "/assets/characters/beagle.png"
+    },
+    {
+      "id": "c_077",
+      "name": "Fang",
+      "rarity": 4,
+      "role": "Vanguard",
+      "faction": "Rhodes Island",
+      "icon": "/assets/characters/fang.png"
+    },
+    {
+      "id": "c_078",
+      "name": "Vanilla",
+      "rarity": 4,
+      "role": "Vanguard",
+      "faction": "Rhodes Island",
+      "icon": "/assets/characters/vanilla.png"
+    },
+    {
+      "id": "c_079",
+      "name": "Croissant",
+      "rarity": 4,
+      "role": "Defender",
+      "faction": "Penguin Logistics",
+      "icon": "/assets/characters/croissant.png"
+    },
+    {
+      "id": "c_080",
+      "name": "Spot",
+      "rarity": 4,
+      "role": "Defender",
+      "faction": "Rhodes Island",
+      "icon": "/assets/characters/spot.png"
+    },
+    {
+      "id": "c_081",
+      "name": "Cardigan",
+      "rarity": 4,
+      "role": "Defender",
+      "faction": "Rhodes Island",
+      "icon": "/assets/characters/cardigan.png"
+    },
+    {
+      "id": "c_082",
+      "name": "Matterhorn",
+      "rarity": 4,
+      "role": "Defender",
+      "faction": "Kjerag",
+      "icon": "/assets/characters/matterhorn.png"
+    },
+    {
+      "id": "c_083",
+      "name": "Cuora",
+      "rarity": 4,
+      "role": "Defender",
+      "faction": "Yan",
+      "icon": "/assets/characters/cuora.png"
+    },
+    {
+      "id": "c_084",
+      "name": "Liskarm",
+      "rarity": 4,
+      "role": "Defender",
+      "faction": "Rhodes Island",
+      "icon": "/assets/characters/liskarm.png"
+    },
+    {
+      "id": "c_085",
+      "name": "Nearl",
+      "rarity": 4,
+      "role": "Guard",
+      "faction": "Kazimierz",
+      "icon": "/assets/characters/nearl.png"
+    },
+    {
+      "id": "c_086",
+      "name": "Frostleaf",
+      "rarity": 4,
+      "role": "Guard",
+      "faction": "Rhodes Island",
+      "icon": "/assets/characters/frostleaf.png"
+    },
+    {
+      "id": "c_087",
+      "name": "Arene",
+      "rarity": 4,
+      "role": "Caster",
+      "faction": "Laterano",
+      "icon": "/assets/characters/arene.png"
+    },
+    {
+      "id": "c_088",
+      "name": "Catapult",
+      "rarity": 4,
+      "role": "Caster",
+      "faction": "Rhodes Island",
+      "icon": "/assets/characters/catapult.png"
+    },
+    {
+      "id": "c_089",
+      "name": "Skyfire",
+      "rarity": 4,
+      "role": "Caster",
+      "faction": "Rhodes Island",
+      "icon": "/assets/characters/skyfire.png"
+    },
+    {
+      "id": "c_090",
+      "name": "Gitano",
+      "rarity": 4,
+      "role": "Caster",
+      "faction": "Rhodes Island",
+      "icon": "/assets/characters/gitano.png"
+    },
+    {
+      "id": "c_091",
+      "name": "Estelle",
+      "rarity": 4,
+      "role": "Guard",
+      "faction": "Rhodes Island",
+      "icon": "/assets/characters/estelle.png"
+    },
+    {
+      "id": "c_092",
+      "name": "Popukar",
+      "rarity": 4,
+      "role": "Medic",
+      "faction": "Rhodes Island",
+      "icon": "/assets/characters/popukar.png"
+    },
+    {
+      "id": "c_093",
+      "name": "Touca",
+      "rarity": 4,
+      "role": "Medic",
+      "faction": "Rhodes Island",
+      "icon": "/assets/characters/touca.png"
+    },
+    {
+      "id": "c_094",
+      "name": "Perfumer",
+      "rarity": 4,
+      "role": "Supporter",
+      "faction": "Rhodes Island",
+      "icon": "/assets/characters/perfumer.png"
+    },
+    {
+      "id": "c_095",
+      "name": "Deepcolor",
+      "rarity": 4,
+      "role": "Supporter",
+      "faction": "Rhodes Island",
+      "icon": "/assets/characters/deepcolor.png"
+    },
+    {
+      "id": "c_096",
+      "name": "Shamare",
+      "rarity": 4,
+      "role": "Supporter",
+      "faction": "Rhodes Island",
+      "icon": "/assets/characters/shamare.png"
+    },
+    {
+      "id": "c_097",
+      "name": "Pinecone",
+      "rarity": 4,
+      "role": "Supporter",
+      "faction": "Yan",
+      "icon": "/assets/characters/pinecone.png"
+    },
+    {
+      "id": "c_098",
+      "name": "Orchid",
+      "rarity": 4,
+      "role": "Supporter",
+      "faction": "Rhodes Island",
+      "icon": "/assets/characters/orchid.png"
+    },
+    {
+      "id": "c_099",
+      "name": "Gravel",
+      "rarity": 4,
+      "role": "Specialist",
+      "faction": "Kazimierz",
+      "icon": "/assets/characters/gravel.png"
+    },
+    {
+      "id": "c_100",
+      "name": "Kafka",
+      "rarity": 4,
+      "role": "Specialist",
+      "faction": "Leithanien",
+      "icon": "/assets/characters/kafka.png"
+    },
+    {
+      "id": "c_101",
+      "name": "Waai Fu",
+      "rarity": 4,
+      "role": "Specialist",
+      "faction": "Yan",
+      "icon": "/assets/characters/waai_fu.png"
+    },
+    {
+      "id": "c_102",
+      "name": "Shaw",
+      "rarity": 4,
+      "role": "Specialist",
+      "faction": "Rhodes Island",
+      "icon": "/assets/characters/shaw.png"
+    },
+    {
+      "id": "c_103",
+      "name": "Robin",
+      "rarity": 4,
+      "role": "Specialist",
+      "faction": "Victoria",
+      "icon": "/assets/characters/robin.png"
+    },
+    {
+      "id": "c_104",
+      "name": "Plume",
+      "rarity": 4,
+      "role": "Sniper",
+      "faction": "Laterano",
+      "icon": "/assets/characters/plume.png"
+    },
+    {
+      "id": "c_105",
+      "name": "Vermeil",
+      "rarity": 4,
+      "role": "Sniper",
+      "faction": "Rhodes Island",
+      "icon": "/assets/characters/vermeil.png"
+    },
+    {
+      "id": "c_106",
+      "name": "Aciddrop",
+      "rarity": 4,
+      "role": "Sniper",
+      "faction": "Rhodes Island",
+      "icon": "/assets/characters/aciddrop.png"
+    },
+    {
+      "id": "c_107",
+      "name": "Ranger",
+      "rarity": 4,
+      "role": "Sniper",
+      "faction": "Rhodes Island",
+      "icon": "/assets/characters/ranger.png"
+    },
+    {
+      "id": "c_108",
+      "name": "Iron Ant",
+      "rarity": 3,
+      "role": "Defender",
+      "faction": "Rhodes Island",
+      "icon": "/assets/characters/iron_ant.png"
+    },
+    {
+      "id": "c_109",
+      "name": "Castle-3",
+      "rarity": 3,
+      "role": "Guard",
+      "faction": "Rhodes Island",
+      "icon": "/assets/characters/castle3.png"
+    },
+    {
+      "id": "c_110",
+      "name": "THRM-EX",
+      "rarity": 3,
+      "role": "Specialist",
+      "faction": "Rhodes Island",
+      "icon": "/assets/characters/thrm_ex.png"
+    },
+    {
+      "id": "c_111",
+      "name": "Lancet-2",
+      "rarity": 3,
+      "role": "Medic",
+      "faction": "Rhodes Island",
+      "icon": "/assets/characters/lancet2.png"
+    },
+    {
+      "id": "c_112",
+      "name": "Du Lin",
+      "rarity": 3,
+      "role": "Caster",
+      "faction": "Yan",
+      "icon": "/assets/characters/du_lin.png"
+    },
+    {
+      "id": "c_113",
+      "name": "Nightblade",
+      "rarity": 3,
+      "role": "Vanguard",
+      "faction": "Rhodes Island",
+      "icon": "/assets/characters/nightblade.png"
+    },
+    {
+      "id": "c_114",
+      "name": "Justice Knight",
+      "rarity": 3,
+      "role": "Sniper",
+      "faction": "Rhodes Island",
+      "icon": "/assets/characters/justice_knight.png"
+    },
+    {
+      "id": "c_115",
+      "name": "Fiammetta",
+      "rarity": 5,
+      "role": "Sniper",
+      "faction": "Laterano",
+      "icon": "/assets/characters/fiammetta.png"
+    },
+    {
+      "id": "c_116",
+      "name": "Chiave",
+      "rarity": 5,
+      "role": "Vanguard",
+      "faction": "Penguin Logistics",
+      "icon": "/assets/characters/chiave.png"
+    },
+    {
+      "id": "c_117",
+      "name": "Ayerscarpe",
+      "rarity": 5,
+      "role": "Guard",
+      "faction": "Sargon",
+      "icon": "/assets/characters/ayerscarpe.png"
+    },
+    {
+      "id": "c_118",
+      "name": "Tuye",
+      "rarity": 5,
+      "role": "Sniper",
+      "faction": "Sargon",
+      "icon": "/assets/characters/tuye.png"
+    },
+    {
+      "id": "c_119",
+      "name": "Wind Chimes",
+      "rarity": 5,
+      "role": "Medic",
+      "faction": "Yan",
+      "icon": "/assets/characters/wind_chimes.png"
+    },
+    {
+      "id": "c_120",
+      "name": "Mr. Nothing",
+      "rarity": 5,
+      "role": "Specialist",
+      "faction": "Yan",
+      "icon": "/assets/characters/mr_nothing.png"
+    },
+    {
+      "id": "c_121",
+      "name": "Pozemka",
+      "rarity": 5,
+      "role": "Vanguard",
+      "faction": "Victoria",
+      "icon": "/assets/characters/pozemka.png"
+    },
+    {
+      "id": "c_122",
+      "name": "Vigna",
+      "rarity": 4,
+      "role": "Vanguard",
+      "faction": "Rhodes Island",
+      "icon": "/assets/characters/vigna.png"
+    },
+    {
+      "id": "c_123",
+      "name": "Yato",
+      "rarity": 4,
+      "role": "Guard",
+      "faction": "Higashi",
+      "icon": "/assets/characters/yato.png"
+    },
+    {
+      "id": "c_124",
+      "name": "Lava",
+      "rarity": 4,
+      "role": "Caster",
+      "faction": "Rhodes Island",
+      "icon": "/assets/characters/lava.png"
+    },
+    {
+      "id": "c_125",
+      "name": "Hibiscus",
+      "rarity": 4,
+      "role": "Medic",
+      "faction": "Rhodes Island",
+      "icon": "/assets/characters/hibiscus.png"
+    },
+    {
+      "id": "c_126",
+      "name": "Rangers",
+      "rarity": 3,
+      "role": "Sniper",
+      "faction": "Rhodes Island",
+      "icon": "/assets/characters/rangers.png"
+    },
+    {
+      "id": "c_127",
+      "name": "Blacknight",
+      "rarity": 5,
+      "role": "Vanguard",
+      "faction": "Yan",
+      "icon": "/assets/characters/blacknight.png"
+    },
+    {
+      "id": "c_128",
+      "name": "Mantra",
+      "rarity": 5,
+      "role": "Supporter",
+      "faction": "Sargon",
+      "icon": "/assets/characters/mantra.png"
+    },
+    {
+      "id": "c_129",
+      "name": "Gavial",
+      "rarity": 5,
+      "role": "Guard",
+      "faction": "Rhodes Island",
+      "icon": "/assets/characters/gavial.png"
+    },
+    {
+      "id": "c_130",
+      "name": "Franka",
+      "rarity": 5,
+      "role": "Guard",
+      "faction": "Rhodes Island",
+      "icon": "/assets/characters/franka.png"
+    },
+    {
+      "id": "c_131",
+      "name": "Astesia",
+      "rarity": 5,
+      "role": "Guard",
+      "faction": "Rhodes Island",
+      "icon": "/assets/characters/astesia.png"
+    },
+    {
+      "id": "c_132",
+      "name": "Matoimaru",
+      "rarity": 5,
+      "role": "Guard",
+      "faction": "Higashi",
+      "icon": "/assets/characters/matoimaru.png"
+    },
+    {
+      "id": "c_133",
+      "name": "Thorns",
+      "rarity": 5,
+      "role": "Guard",
+      "faction": "Aegir",
+      "icon": "/assets/characters/thorns.png"
+    },
+    {
+      "id": "c_134",
+      "name": "La Pluma",
+      "rarity": 5,
+      "role": "Guard",
+      "faction": "Sargon",
+      "icon": "/assets/characters/la_pluma.png"
+    },
+    {
+      "id": "c_135",
+      "name": "Rosmontis",
+      "rarity": 5,
+      "role": "Guard",
+      "faction": "Rhodes Island",
+      "icon": "/assets/characters/rosmontis.png"
+    },
+    {
+      "id": "c_136",
+      "name": "Mountain",
+      "rarity": 5,
+      "role": "Vanguard",
+      "faction": "Victoria",
+      "icon": "/assets/characters/mountain.png"
+    },
+    {
+      "id": "c_137",
+      "name": "Siege",
+      "rarity": 5,
+      "role": "Vanguard",
+      "faction": "Victoria",
+      "icon": "/assets/characters/siege.png"
+    },
+    {
+      "id": "c_138",
+      "name": "Reed",
+      "rarity": 5,
+      "role": "Vanguard",
+      "faction": "Rhodes Island",
+      "icon": "/assets/characters/reed.png"
+    },
+    {
+      "id": "c_139",
+      "name": "Elysium",
+      "rarity": 5,
+      "role": "Vanguard",
+      "faction": "Rhodes Island",
+      "icon": "/assets/characters/elysium.png"
+    },
+    {
+      "id": "c_140",
+      "name": "Beanstalk",
+      "rarity": 5,
+      "role": "Vanguard",
+      "faction": "Victoria",
+      "icon": "/assets/characters/beanstalk.png"
+    },
+    {
+      "id": "c_141",
+      "name": "Penance",
+      "rarity": 5,
+      "role": "Vanguard",
+      "faction": "Siracusa",
+      "icon": "/assets/characters/penance.png"
+    },
+    {
+      "id": "c_142",
+      "name": "Chongyue",
+      "rarity": 5,
+      "role": "Vanguard",
+      "faction": "Yan",
+      "icon": "/assets/characters/chongyue.png"
+    },
+    {
+      "id": "c_143",
+      "name": "Virtuosa",
+      "rarity": 5,
+      "role": "Vanguard",
+      "faction": "Leithanien",
+      "icon": "/assets/characters/virtuosa.png"
+    },
+    {
+      "id": "c_144",
+      "name": "Asbestos",
+      "rarity": 5,
+      "role": "Defender",
+      "faction": "Rhodes Island",
+      "icon": "/assets/characters/asbestos.png"
+    },
+    {
+      "id": "c_145",
+      "name": "Horror",
+      "rarity": 5,
+      "role": "Defender",
+      "faction": "Rhodes Island",
+      "icon": "/assets/characters/horror.png"
+    },
+    {
+      "id": "c_146",
+      "name": "Nian (EF)",
+      "rarity": 5,
+      "role": "Defender",
+      "faction": "Yan",
+      "icon": "/assets/characters/nian_ef.png"
+    },
+    {
+      "id": "c_147",
+      "name": "Heavyrain",
+      "rarity": 5,
+      "role": "Defender",
+      "faction": "Rhodes Island",
+      "icon": "/assets/characters/heavyrain.png"
+    },
+    {
+      "id": "c_148",
+      "name": "Ashlock",
+      "rarity": 5,
+      "role": "Defender",
+      "faction": "Rhodes Island",
+      "icon": "/assets/characters/ashlock.png"
+    },
+    {
+      "id": "c_149",
+      "name": "Cement",
+      "rarity": 5,
+      "role": "Defender",
+      "faction": "Rhodes Island",
+      "icon": "/assets/characters/cement.png"
+    },
+    {
+      "id": "c_150",
+      "name": "Honeyberry",
+      "rarity": 5,
+      "role": "Medic",
+      "faction": "Rhodes Island",
+      "icon": "/assets/characters/honeyberry.png"
+    },
+    {
+      "id": "c_151",
+      "name": "Whisperain",
+      "rarity": 5,
+      "role": "Medic",
+      "faction": "Aegir",
+      "icon": "/assets/characters/whisperain.png"
+    },
+    {
+      "id": "c_152",
+      "name": "Sussurro",
+      "rarity": 5,
+      "role": "Medic",
+      "faction": "Rhodes Island",
+      "icon": "/assets/characters/sussurro.png"
+    },
+    {
+      "id": "c_153",
+      "name": "Touch",
+      "rarity": 5,
+      "role": "Medic",
+      "faction": "Rhodes Island",
+      "icon": "/assets/characters/touch.png"
+    },
+    {
+      "id": "c_154",
+      "name": "Pallas",
+      "rarity": 5,
+      "role": "Medic",
+      "faction": "Sargon",
+      "icon": "/assets/characters/pallas.png"
+    },
+    {
+      "id": "c_155",
+      "name": "Firewatch",
+      "rarity": 5,
+      "role": "Sniper",
+      "faction": "Rhodes Island",
+      "icon": "/assets/characters/firewatch.png"
+    },
+    {
+      "id": "c_156",
+      "name": "Archetto",
+      "rarity": 5,
+      "role": "Sniper",
+      "faction": "Laterano",
+      "icon": "/assets/characters/archetto.png"
+    },
+    {
+      "id": "c_157",
+      "name": "Ash",
+      "rarity": 5,
+      "role": "Sniper",
+      "faction": "Rainbow Six",
+      "icon": "/assets/characters/ash.png"
+    },
+    {
+      "id": "c_158",
+      "name": "Blurry",
+      "rarity": 5,
+      "role": "Sniper",
+      "faction": "Rhodes Island",
+      "icon": "/assets/characters/blurry.png"
+    },
+    {
+      "id": "c_159",
+      "name": "Tequila",
+      "rarity": 5,
+      "role": "Sniper",
+      "faction": "Sargon",
+      "icon": "/assets/characters/tequila.png"
+    },
+    {
+      "id": "c_160",
+      "name": "Iris",
+      "rarity": 5,
+      "role": "Caster",
+      "faction": "Leithanien",
+      "icon": "/assets/characters/iris.png"
+    },
+    {
+      "id": "c_161",
+      "name": "Ho'olheyak",
+      "rarity": 5,
+      "role": "Caster",
+      "faction": "Yan",
+      "icon": "/assets/characters/ho_olheyak.png"
+    },
+    {
+      "id": "c_162",
+      "name": "Ceobe",
+      "rarity": 5,
+      "role": "Caster",
+      "faction": "Rhodes Island",
+      "icon": "/assets/characters/ceobe.png"
+    },
+    {
+      "id": "c_163",
+      "name": "Absinthe",
+      "rarity": 5,
+      "role": "Caster",
+      "faction": "Leithanien",
+      "icon": "/assets/characters/absinthe.png"
+    },
+    {
+      "id": "c_164",
+      "name": "Amastria",
+      "rarity": 5,
+      "role": "Caster",
+      "faction": "Leithanien",
+      "icon": "/assets/characters/amastria.png"
+    },
+    {
+      "id": "c_165",
+      "name": "Leizi",
+      "rarity": 5,
+      "role": "Caster",
+      "faction": "Yan",
+      "icon": "/assets/characters/leizi.png"
+    },
+    {
+      "id": "c_166",
+      "name": "Pramanix (EF)",
+      "rarity": 5,
+      "role": "Supporter",
+      "faction": "Kjerag",
+      "icon": "/assets/characters/pramanix_ef.png"
+    },
+    {
+      "id": "c_167",
+      "name": "Greyy",
+      "rarity": 5,
+      "role": "Supporter",
+      "faction": "Rhodes Island",
+      "icon": "/assets/characters/greyy.png"
+    },
+    {
+      "id": "c_168",
+      "name": "Earthspirit",
+      "rarity": 5,
+      "role": "Supporter",
+      "faction": "Rhodes Island",
+      "icon": "/assets/characters/earthspirit.png"
+    },
+    {
+      "id": "c_169",
+      "name": "Roberta",
+      "rarity": 5,
+      "role": "Supporter",
+      "faction": "Rhodes Island",
+      "icon": "/assets/characters/roberta.png"
+    },
+    {
+      "id": "c_170",
+      "name": "Cliffheart",
+      "rarity": 5,
+      "role": "Specialist",
+      "faction": "Kjerag",
+      "icon": "/assets/characters/cliffheart.png"
+    },
+    {
+      "id": "c_171",
+      "name": "Snowsant",
+      "rarity": 5,
+      "role": "Specialist",
+      "faction": "Kjerag",
+      "icon": "/assets/characters/snowsant.png"
+    },
+    {
+      "id": "c_172",
+      "name": "Cirrus",
+      "rarity": 5,
+      "role": "Specialist",
+      "faction": "Rhodes Island",
+      "icon": "/assets/characters/cirrus.png"
+    },
+    {
+      "id": "c_173",
+      "name": "Beewax",
+      "rarity": 5,
+      "role": "Supporter",
+      "faction": "Sargon",
+      "icon": "/assets/characters/beewax.png"
+    },
+    {
+      "id": "c_174",
+      "name": "Tomimi",
+      "rarity": 5,
+      "role": "Specialist",
+      "faction": "Victoria",
+      "icon": "/assets/characters/tomimi.png"
+    },
+    {
+      "id": "c_175",
+      "name": "Jaye",
+      "rarity": 5,
+      "role": "Specialist",
+      "faction": "Yan",
+      "icon": "/assets/characters/jaye.png"
+    },
+    {
+      "id": "c_176",
+      "name": "Shining (EF)",
+      "rarity": 6,
+      "role": "Medic",
+      "faction": "Rhodes Island",
+      "icon": "/assets/characters/shining_ef.png"
+    },
+    {
+      "id": "c_177",
+      "name": "Kal'tsit",
+      "rarity": 6,
+      "role": "Supporter",
+      "faction": "Rhodes Island",
+      "icon": "/assets/characters/kaltsit.png"
+    },
+    {
+      "id": "c_178",
+      "name": "Weedy",
+      "rarity": 6,
+      "role": "Specialist",
+      "faction": "Rhodes Island",
+      "icon": "/assets/characters/weedy.png"
+    },
+    {
+      "id": "c_179",
+      "name": "Feather",
+      "rarity": 6,
+      "role": "Sniper",
+      "faction": "Laterano",
+      "icon": "/assets/characters/feather.png"
+    },
+    {
+      "id": "c_180",
+      "name": "Akafuyu (EF)",
+      "rarity": 6,
+      "role": "Sniper",
+      "faction": "Higashi",
+      "icon": "/assets/characters/akafuyu_ef.png"
+    },
+    {
+      "id": "c_181",
+      "name": "Mlynar",
+      "rarity": 6,
+      "role": "Guard",
+      "faction": "Leithanien",
+      "icon": "/assets/characters/mlynar.png"
+    },
+    {
+      "id": "c_182",
+      "name": "Misery",
+      "rarity": 6,
+      "role": "Specialist",
+      "faction": "Rhodes Island",
+      "icon": "/assets/characters/misery.png"
+    },
+    {
+      "id": "c_183",
+      "name": "Outcast",
+      "rarity": 6,
+      "role": "Sniper",
+      "faction": "Rhodes Island",
+      "icon": "/assets/characters/outcast.png"
+    },
+    {
+      "id": "c_184",
+      "name": "Saileach (EF)",
+      "rarity": 6,
+      "role": "Guard",
+      "faction": "Victoria",
+      "icon": "/assets/characters/saileach_ef.png"
+    },
+    {
+      "id": "c_185",
+      "name": "Wild Mane (EF)",
+      "rarity": 6,
+      "role": "Vanguard",
+      "faction": "Victoria",
+      "icon": "/assets/characters/wild_mane_ef.png"
+    },
+    {
+      "id": "c_186",
+      "name": "Bagpipe (EF)",
+      "rarity": 6,
+      "role": "Vanguard",
+      "faction": "Victoria",
+      "icon": "/assets/characters/bagpipe_ef.png"
+    },
+    {
+      "id": "c_187",
+      "name": "Flamebringer (EF)",
+      "rarity": 6,
+      "role": "Guard",
+      "faction": "Rhodes Island",
+      "icon": "/assets/characters/flamebringer_ef.png"
+    },
+    {
+      "id": "c_188",
+      "name": "Meteorite (EF)",
+      "rarity": 6,
+      "role": "Sniper",
+      "faction": "Rhodes Island",
+      "icon": "/assets/characters/meteorite_ef.png"
+    },
+    {
+      "id": "c_189",
+      "name": "Goldenglow (EF)",
+      "rarity": 6,
+      "role": "Caster",
+      "faction": "Rhodes Island",
+      "icon": "/assets/characters/goldenglow_ef.png"
+    },
+    {
+      "id": "c_190",
+      "name": "Passenger (EF)",
+      "rarity": 6,
+      "role": "Caster",
+      "faction": "Leithanien",
+      "icon": "/assets/characters/passenger_ef.png"
+    },
+    {
+      "id": "c_191",
+      "name": "Rockrock (EF)",
+      "rarity": 6,
+      "role": "Defender",
+      "faction": "Kazdel",
+      "icon": "/assets/characters/rockrock_ef.png"
+    },
+    {
+      "id": "c_192",
+      "name": "Specter (EF)",
+      "rarity": 6,
+      "role": "Guard",
+      "faction": "Aegir",
+      "icon": "/assets/characters/specter_ef.png"
+    },
+    {
+      "id": "c_193",
+      "name": "Skadi (EF)",
+      "rarity": 6,
+      "role": "Guard",
+      "faction": "Aegir",
+      "icon": "/assets/characters/skadi_ef.png"
+    },
+    {
+      "id": "c_194",
+      "name": "Gladiia (EF)",
+      "rarity": 6,
+      "role": "Supporter",
+      "faction": "Aegir",
+      "icon": "/assets/characters/gladiia_ef.png"
+    },
+    {
+      "id": "c_195",
+      "name": "U-Official (EF)",
+      "rarity": 6,
+      "role": "Sniper",
+      "faction": "Aegir",
+      "icon": "/assets/characters/u_official_ef.png"
+    },
+    {
+      "id": "c_196",
+      "name": "Izana (EF)",
+      "rarity": 6,
+      "role": "Vanguard",
+      "faction": "Higashi",
+      "icon": "/assets/characters/izana_ef.png"
+    },
+    {
+      "id": "c_197",
+      "name": "Kyoto (EF)",
+      "rarity": 6,
+      "role": "Guard",
+      "faction": "Higashi",
+      "icon": "/assets/characters/kyoto_ef.png"
+    },
+    {
+      "id": "c_198",
+      "name": "Utage (EF)",
+      "rarity": 6,
+      "role": "Guard",
+      "faction": "Higashi",
+      "icon": "/assets/characters/utage_ef.png"
+    },
+    {
+      "id": "c_199",
+      "name": "Tsukinogi (EF)",
+      "rarity": 6,
+      "role": "Supporter",
+      "faction": "Higashi",
+      "icon": "/assets/characters/tsukinogi_ef.png"
+    },
+    {
+      "id": "c_200",
+      "name": "Harmonie (EF)",
+      "rarity": 6,
+      "role": "Caster",
+      "faction": "Victoria",
+      "icon": "/assets/characters/harmonie_ef.png"
+    }
+  ]
+}
